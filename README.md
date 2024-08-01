@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Studyng Analysis and development of systens 1 - 4<br>- Python Developer<br>- SQL Developer</p>
+<p align="left">- Studyng Analysis and development - of systens 1 - 4<br>- Python Developer<br>- SQL Developer</p>
 
 ###
 
@@ -28,6 +28,10 @@
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
