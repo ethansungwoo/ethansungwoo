@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Studyng Analysis and development of systens 1 - 4<br>- Python Junior Developer<br>- SQL Junior Developer</p>
+<p align="left">- Studyng Analysis and development of systens 1 - 4<br>- Studying cybersecurity at google<br>- Python Junior Developer<br>- SQL Junior Developer</p>
 
 ###
 
